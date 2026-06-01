@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+fotos_originais/
+fotos_finalizadas/
+*.xlsx
